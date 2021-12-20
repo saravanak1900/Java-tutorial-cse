@@ -1,4 +1,4 @@
-# Java-tutorial-cse
+#### Java-tutorial-cse
 
 ### Windows Commands
 
@@ -11,7 +11,7 @@
 
 
 
-# To download this repository run the following command in your GIT BASH run it only once 
+## To download this repository run the following command in your GIT BASH run it only once 
 
 ## cd d:
 
