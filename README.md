@@ -14,7 +14,7 @@
 ## To download this repository run the following command in your GIT BASH run it only once 
 
 ```
-## cd d:
+cd d:
 
-## git clone https://github.com/saravanak1900/Java-tutorial-cse.git
+git clone https://github.com/saravanak1900/Java-tutorial-cse.git
 ```
